@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="org.jboss.tools.central.feature" label="%featureName" version="2.1.600.v20220110-1812" provider-name="%providerName" plugin="org.jboss.tools.central"> 
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin id="org.jboss.tools.central" download-size="831" install-size="1157" version="2.1.600.v20220110-1812" unpack="false"/> 
+
+</feature>
